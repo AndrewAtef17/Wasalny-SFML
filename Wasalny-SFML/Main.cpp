@@ -665,7 +665,7 @@ void drawGraph(RenderWindow& window)
 
 		for (int i = 0; i < v.size(); i++)
 		{
-			drawCircle(window, 40, m[v[i]].x, m[v[i]].y, Color::Blue);
+			drawCircle(window, 45, m[v[i]].x, m[v[i]].y, Color::Blue);
 			if (i != 0)
 				drawline(window, m[v[i - 1]].x, m[v[i - 1]].y, m[v[i]].x, m[v[i]].y, Color::Blue);
 			//sleep(sf::milliseconds(2000));
