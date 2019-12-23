@@ -1,5 +1,700 @@
-﻿  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 944 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+﻿  Main.cpp
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(263,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(263,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,41): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,41): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,41): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,41): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,38): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,38): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,38): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(271,38): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(272,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(272,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(525,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(527,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(527,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,25): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,25): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,25): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,25): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,22): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,22): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,22): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,22): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,40): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,40): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,40): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,40): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,36): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,36): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,36): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(534,36): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(583,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,49): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,49): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,49): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,49): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,40): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,40): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,40): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,40): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(584,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(585,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(586,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(587,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(588,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(589,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(590,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(591,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(592,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(593,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(594,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(595,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,49): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,49): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,49): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,49): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,40): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,40): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,40): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,40): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(596,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,49): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,49): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,49): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,49): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,40): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,40): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,40): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,40): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(597,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,49): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,49): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,49): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,49): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,40): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,40): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,40): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,40): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,31): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,31): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,31): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,31): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,23): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,23): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,23): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(598,23): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,51): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,51): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,51): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,51): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,42): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,42): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,42): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,42): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,33): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,33): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,33): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,33): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,24): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,24): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,24): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(599,24): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,49): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,49): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,49): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,49): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,41): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,41): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,41): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,41): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,33): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,33): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,33): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,33): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,24): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,24): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,24): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(600,24): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,51): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,51): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,51): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,51): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,42): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,42): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,42): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,42): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,33): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,33): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,33): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,33): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,24): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,24): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,24): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(601,24): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,51): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,51): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,51): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,51): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,42): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,42): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,42): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,42): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,33): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,33): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,33): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,33): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,24): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,24): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,24): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(602,24): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,51): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,51): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,51): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,51): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,42): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,42): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,42): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,42): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,33): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,33): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,33): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,33): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,24): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,24): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,24): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(603,24): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,51): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,51): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,51): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,51): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,42): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,42): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,42): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,42): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,33): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,33): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,33): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,33): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,24): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,24): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,24): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(604,24): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(606,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(609,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(612,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,30): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,30): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,30): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(616,30): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,30): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,30): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,30): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(619,30): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,30): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,30): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,30): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(622,30): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(626,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(629,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,30): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,30): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,30): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(632,30): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(636,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(639,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(642,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(646,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,37): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,37): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,37): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,37): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,29): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,29): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,29): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(649,29): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,39): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,39): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,39): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,39): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,30): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,30): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,30): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(652,30): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(666,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,45): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,45): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,45): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,45): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,34): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,34): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,34): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(668,34): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,70): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,70): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,70): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,70): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,70): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,59): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,59): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,59): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,59): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,48): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,48): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,48): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,48): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,48): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,33): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,33): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,33): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(670,33): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(679,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,47): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,47): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,47): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,47): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,35): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,35): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,35): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(681,35): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,74): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,74): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,74): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,74): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,74): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,62): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,62): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,62): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,62): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,62): warning C4244:         ]
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,50): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,50): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,50): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,50): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,50): warning C4244:         ]
+  Wasalny.cpp
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,34): warning C4244:         with
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,34): warning C4244:         [
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,34): warning C4244:             T=float
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Main.cpp(683,34): warning C4244:         ]
+  Wasalny2.cpp
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Wasalny.cpp(136,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Wasalny-SFML\Wasalny2.cpp(226,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  929 of 944 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Wasalny-SFML.vcxproj -> C:\Users\Andrew\Desktop\Wasalny-SFML\Release\Wasalny-SFML.exe
+  Wasalny-SFML.vcxproj -> C:\Users\Andrew\Desktop\AndrewAtef17\Wasalny-SFML\Release\Wasalny-SFML.exe
